@@ -1,13 +1,13 @@
 Project Title:Hematovision:An Advanced Blood cells classification using Transfer Learning.
-Team ID : LTVIP2026TMIDS65880
+Team ID : LTVIP2026TMIDS65865
 
 Team Size : 4
 
-Team Leader : Pitla Madhav Reddy
+Team Leader : Gopisetti Sujitha
 
-Team member : Polavarapu Ramani
+Team member : Kojja Rajesh
 
-Team member : Pulivarthi Satvik
+Team member : Mallam Parameswari
 
-Team member : Rachakulla Sasikanth
+Team member : Mamidala Yaswanth
 
